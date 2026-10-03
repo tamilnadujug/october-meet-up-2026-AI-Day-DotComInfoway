@@ -30,8 +30,8 @@ aravindhsiva
 
 ​We’re happy to have TNIA collaborating with us in this initiative to strengthen the technology ecosystem and create more opportunities for developers, students, engineers, and tech enthusiasts in Madurai.
 
-📍 Madurai
-📅 Full-day Community Meetup
+📍 Madurai <br>
+📅 Full-day Community Meetup <br>
 🎙️ Multiple Speakers | Talks + Hands-on | Networking
 
 ​Calling the Madurai Tech Community! ❤️
